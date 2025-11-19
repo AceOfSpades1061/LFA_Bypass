@@ -1,8 +1,11 @@
 # SCPS_Bypass
 ### Current Latest Major Version on SCPS Chromebooks: v141 kv6
 
-> [!IMPORTANT]
+> [!CAUTION] 
 > _**DO NOT UPDATE UNDER ANY CIRCUMSTANCES, USE DAUB TO BLOCK UPDATES OR ELSE YOU COULD LOSE THE ABILITY TO DOWNGRADE AND DO ANY EXPLOITS ON KV7!**_
+
+> [!IMPORTANT]
+> READ THE ENTIRE MARKDOWN FOR GODS SAKE!!!
 
 ## The Skiddy Chromebook Exploiting Dictionary, 1st edition:
 KV / Kernel Version:
