@@ -6,7 +6,7 @@
 > Read the entire markdown before coming to me saying that one or more of the exploits don't work.
 
 ## Table of Contents
-- [Kernel Version Explanation](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#kernel-version-explanation)
+- [Kernel Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#kernel-version)
 - [Checking Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#checking-version)
 - [Sh1ttyOOBE + BadSh1mmer - Unenrollment for Versions 134-137]()
 - []()
