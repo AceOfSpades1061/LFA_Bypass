@@ -1,7 +1,7 @@
 # SCPS_Bypass | Written by AceOfSpades1601
 
 > [!IMPORTANT]
-> THIS REPO IS FOR EDUCATIONAL PURPOSES AND TO EDUCATE ON CHROMEOS'S BAD SECURITY!!!
+> THIS REPO IS FOR EDUCATIONAL PURPOSES AND MADE TO EDUCATE ON CHROMEOS'S BAD SECURITY!!!
 
 **Disclaimer**: _I did not make/find **ANY** of these exploits; all of these exploits belong to their respective owners._
 
