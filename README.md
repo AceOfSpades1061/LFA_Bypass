@@ -10,10 +10,10 @@
 **Final Disclaimer**: _I am not responsible if you get into trouble with your local sysadmin for doing this on a **enterprise-owned device**, and not your own._
 
 ## Table of Contents
-- [Sh1ttyOOBE + BadSh1mmer - Unblock Dev mode and Unenrollment for Versions 135-137](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#)
+- [Sh1ttyOOBE + BadSh1mmer - Unblock Dev mode and Unenrollment for Versions 135-137](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#sh1ttyoobe--badsh1mmer---unenrollment-for-kv5--found-by-crosbreaker)
 - [Kernel Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#kernel-version)
 - [Checking Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#checking-version)
-- [Avoiding Accidental Re-enrollment](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#checking-version)
+- [Avoiding Accidental Re-enrollment](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#avoiding-accidental-re-enrollment)
 
 ## Sh1ttyOOBE + BadSh1mmer - Unenrollment for KV5 | Found by [Crosbreaker](https://github.com/crosbreaker)
 Prerequisites:
