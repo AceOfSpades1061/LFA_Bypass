@@ -33,7 +33,7 @@ Prerequisites:
 After signing in, you can sign out, and you will be back on the welcome screen. Progress through Oobe as normal by clicking get started, and next, you will be greeted with three options to sign in. Sign in with the same email, and when you sign in, it will hang on the please wait screen. Simply restart or Alt+VolumeUp + X, and you will be placed on the lockscreen. After that, you are done and can sign out, and it will be persistent until the next powerwash.
 
 > [!CAUTION]
-> If it starts downloading an update and you already signed in but signed out back to Oobe, DO AN EC RESET IMMEDIATELY! (Refresh+Power)
+> If it starts downloading an update and you already signed in but signed back out to Oobe, DO AN EC RESET IMMEDIATELY! (Refresh+Power)
 
 
 ### BADSH1MMER (Use after doing SH1ttyOOBE)
