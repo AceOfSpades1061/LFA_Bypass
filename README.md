@@ -10,10 +10,21 @@
 **Final Disclaimer**: _I am not responsible if you get into trouble with your local sysadmin for doing this on a **enterprise-owned device**, and not your own._
 
 ## Table of Contents
+- [Skiovox 141 - Filter Bypass for Versions <141](https://github.com/AceOfSpades1061/SCPS_Bypass/edit/main/README.md#skiovox-141---filter-bypass-for-versions-below-141)
 - [Sh1ttyOOBE + BadSh1mmer - Unblock Dev mode and Unenrollment for Versions 135-137](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#sh1ttyoobe--badsh1mmer---unenrollment-for-kv5--found-by-crosbreaker)
 - [Kernel Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#kernel-version)
 - [Checking Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#checking-version)
 - [Avoiding Accidental Re-enrollment](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#avoiding-accidental-re-enrollment)
+
+## Skiovox 141 - Filter Bypass for Versions below 141
+Prerequisites:
+- A Chrome with a version below 141
+- A website Kiosk app that has a way to navigate away to a search engine (Like Google or DuckDuckGo) (A website kiosk app is a kiosk app that shows a URL while loading into the app)
+
+1. Find a website kiosk app that has a way to navigate from the homepage to a search engine or GitHub (To click the link below)
+2. Go to the [Skiovox window opener](https://skiovox141.crosbreaker.dev/open)
+3. Click "Click here if it didn't open yet"
+4. PROFIT!!!
 
 ## Sh1ttyOOBE + BadSh1mmer - Unenrollment for KV5 | Found by [Crosbreaker](https://github.com/crosbreaker)
 Prerequisites:
