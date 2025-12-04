@@ -10,7 +10,7 @@
 **Final Disclaimer**: _I am not responsible if you get into trouble with your local sysadmin for doing this on a **enterprise-owned device**, and not your own._
 
 ## Table of Contents
-- [Skiovox 141 - Filter Bypass for Versions <141](https://github.com/AceOfSpades1061/SCPS_Bypass/edit/main/README.md#skiovox-141---filter-bypass-for-versions-below-141)
+- [Skiovox 141 - Filter Bypass for Versions <141](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#skiovox-141---filter-bypass-for-versions-below-141)
 - [Sh1ttyOOBE + BadSh1mmer - Unblock Dev mode and Unenrollment for Versions 135-137](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#sh1ttyoobe--badsh1mmer---unenrollment-for-kv5--found-by-crosbreaker)
 - [Kernel Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#kernel-version)
 - [Checking Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#checking-version)
