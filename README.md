@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/AceOfSpades1061/LFA_Bypass/blob/main/images/unlockchip.png?raw=true" height="200"></p>
+<p align="center"><img src="https://github.com/AceOfSpades1061/LFA_Bypass/blob/main/images/unenrollment.png?raw=true" height="200"></p>
 <h1 align="center">LFA_Bypass</h1>
 
 > [!IMPORTANT]
@@ -81,7 +81,10 @@ The anti-downgrader Google implemented to stop you from downgrading to vulnerabl
 - Kernner 7: v143 (I'm pretty sure this is the version that locks you on KV7, make a Pull req if this is wrong.)
 
 ## Checking Version:
-Press Ctrl+Shift+Esc and look at the top for your codename, and it should display your major version to the right of your codename (example: yavilla, version 140.16371.0). <img src="https://raw.githubusercontent.com/AceOfSpades1061/SCPS_Bypass/refs/heads/main/images/slightlystupid.png" alt="people who still ask me how to check their version" width="100">
+Press Ctrl+Shift+Esc and look at the top for your codename, and it should display your major version to the right of your codename (example: yavilla, version 140.16371.0).
 
 ## Avoiding Accidental Re-enrollment
+>[!IMPORTANT]
+>this isn't finished.
+
 You MUST have Access to the VT-2 Terminal with Dev Mode enabled to execute these commands.
