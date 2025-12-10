@@ -16,11 +16,12 @@ _I am not responsible if you get into trouble with your local sysadmin for doing
 ## Table of Contents
 - [Skiovox 141 - Filter Bypass for Versions <141](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#skiovox-141---filter-bypass-for-versions-below-141)
 - [Sh1ttyOOBE + BadSh1mmer - Unblock Dev mode and Unenrollment for Versions 135-137](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#sh1ttyoobe--badsh1mmer---unenrollment-for-kv5--found-by-crosbreaker)
+- [ExtPrint3r - Filter Disabler](https://github.com/AceOfSpades1061/LFA_Bypass#extprint3r-filter-disabler-and-my-school-it-departmentss-response)
 - [Kernel Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#kernel-version)
 - [Checking Version](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#checking-version)
 - [Avoiding Accidental Re-enrollment](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#avoiding-accidental-re-enrollment)
 
-## Skiovox 141 - Filter Bypass for Versions below 141
+## Skiovox 141 - Filter Bypass for Versions below 141 | By [Crosbreaker](https://github.com/crosbreaker)
 Prerequisites:
 - A Chrome with a version below 141
 - A website Kiosk app that has a way to navigate away to a search engine (Like Google or DuckDuckGo) (A website kiosk app is a kiosk app that shows a URL while loading into the app)
@@ -30,7 +31,7 @@ Prerequisites:
 3. Click "Click here if it didn't open yet"
 4. PROFIT!!!
 
-## Sh1ttyOOBE + BadSh1mmer - Unenrollment for KV5 | Found by [Crosbreaker](https://github.com/crosbreaker)
+## Sh1ttyOOBE + BadSh1mmer - Unenrollment for KV5 | By [Crosbreaker](https://github.com/crosbreaker)
 Prerequisites:
 - Chromebook with a Version from 135-137
 - A USB (Recommended to have 8 GB or more)
@@ -61,11 +62,11 @@ After signing in, you can sign out, and you will be back on the welcome screen. 
 7. Ignore it (since it's not blocked in VPD) and go into recovery again (Esc+Refresh+Power)
 8. Insert the USB you put BadSh1mmer on, and select BadBr0ker. Follow the instructions on the screen to fully unenroll and get Dev Mode unblocked.
 
-## ExtPrint3r (Filter Disabler) and SCPS IT Departments's Response
+## ExtPrint3r (Filter Disabler) and My school IT Departments's Response
 ### Patched somewhere on KV5
-ExtPrint3r is an exploit created by [Blobby Boi]() with the goal of being the successor to ExtHang3r. The exploit recreates the behavior of the LTMEAT Print method by flooding iframes and then printing the page. For whatever reason, printing a page with a ton of iframes hangs the embedded page rather than the host page. This is exactly what ExtPrint3r exploits, since it also works with extension pages (as long they are under web_accessible_resources). This seems to be much more consistent than other extension-freezing methods, and it also lasts for a longer period of time. Just like ExtHang3r, this would not have been possible withuot [ading2110]()'s original Dextensify, go check it out!
+ExtPrint3r is an exploit created by [Blobby Boi](https://github.com/Blobby-Boi/) with the goal of being the successor to ExtHang3r. The exploit recreates the behavior of the LTMEAT Print method by flooding iframes and then printing the page. For whatever reason, printing a page with a ton of iframes hangs the embedded page rather than the host page. This is exactly what ExtPrint3r exploits, since it also works with extension pages (as long they are under web_accessible_resources). This seems to be much more consistent than other extension-freezing methods, and it also lasts for a longer period of time. Just like ExtHang3r, this would not have been possible withuot [ading2110](https://github.com/ading2210/)'s original Dextensify, go check it out!
 
-#### SCPS IT Department's Response to ExtPrint3r and Dextensify
+#### The IT Department's Response to ExtPrint3r and Dextensify
 they just literally disabled javascript for file:/// urls 💔
 
 ## Kernel Version
