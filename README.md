@@ -1,4 +1,5 @@
-# SCPS_Bypass | Written by AceOfSpades1601
+<p align="center"><img src="https://raw.githubusercontent.com/AceOfSpades1061/SCPS_Bypass/main/unenroll.png" height="200"></p>
+<h1 align="center">SCPS_Bypass</h1>
 
 > [!IMPORTANT]
 > THIS REPO IS FOR EDUCATIONAL PURPOSES AND MADE TO EDUCATE ON CHROMEOS'S BAD SECURITY!!!
