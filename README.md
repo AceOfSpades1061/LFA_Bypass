@@ -1,14 +1,17 @@
 <p align="center"><img src="https://github.com/AceOfSpades1061/AceFiles/blob/main/unlockchip.png?raw=true" height="200"></p>
-<h1 align="center">SCPS_Bypass</h1>
+<h1 align="center">LFA_Bypass</h1>
 
 > [!IMPORTANT]
 > THIS REPO IS FOR EDUCATIONAL PURPOSES AND MADE TO EDUCATE ON CHROMEOS'S BAD SECURITY!!!
 
-**Disclaimer**: _I did not make/find **ANY** of these exploits; all of these exploits belong to their respective owners._
+# **Disclaimer**:
+_I did not make/find **ANY** of these exploits; all of these exploits belong to their respective owners._
 
-**Another Disclaimer**: _I also do **NOT** condone using this to cheat on school tests or assignments. **Please do your work with honesty**._
+## **Another Disclaimer**:
+_I also do **NOT** condone using this to cheat on school tests or assignments. **Please do your work with honesty**._
 
-**Final Disclaimer**: _I am not responsible if you get into trouble with your local sysadmin for doing this on a **enterprise-owned device**, and not your own._
+### **And another Disclaimer**:
+_I am not responsible if you get into trouble with your local sysadmin for doing this on a **enterprise-owned device**, and not your own._
 
 ## Table of Contents
 - [Skiovox 141 - Filter Bypass for Versions <141](https://github.com/AceOfSpades1061/SCPS_Bypass?tab=readme-ov-file#skiovox-141---filter-bypass-for-versions-below-141)
@@ -58,9 +61,12 @@ After signing in, you can sign out, and you will be back on the welcome screen. 
 7. Ignore it (since it's not blocked in VPD) and go into recovery again (Esc+Refresh+Power)
 8. Insert the USB you put BadSh1mmer on, and select BadBr0ker. Follow the instructions on the screen to fully unenroll and get Dev Mode unblocked.
 
-With Dev Mode on, you can ALWAYS be unenrolled, no matter what version.
+## ExtPrint3r (Filter Disabler) and SCPS IT Departments's Response
+### Patched somewhere on KV5
+ExtPrint3r is an exploit created by [Blobby Boi]() with the goal of being the successor to ExtHang3r. The exploit recreates the behavior of the LTMEAT Print method by flooding iframes and then printing the page. For whatever reason, printing a page with a ton of iframes hangs the embedded page rather than the host page. This is exactly what ExtPrint3r exploits, since it also works with extension pages (as long they are under web_accessible_resources). This seems to be much more consistent than other extension-freezing methods, and it also lasts for a longer period of time. Just like ExtHang3r, this would not have been possible withuot [ading2110]()'s original Dextensify, go check it out!
 
-However, you must do these commands to avoid accidental re-enrollment. (Go to Avoiding Accidental Re-enrollment)
+#### SCPS IT Department's Response to ExtPrint3r and Dextensify
+they just literally disabled javascript for file:/// urls 💔
 
 ## Kernel Version
 The anti-downgrader Google implemented to stop you from downgrading to vulnerable ChromeOS Versions.
