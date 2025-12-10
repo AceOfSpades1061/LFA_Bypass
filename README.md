@@ -37,7 +37,7 @@ Prerequisites:
 - Reading capabilities of a 5th grader
 
 > [!TIP]
-> If you only need unenrollment that can be simply undone and re-enrolled, and don't want full control over your Chromebook, you can just stick with Sh1ttyOOBE.
+> If you only need unenrollment that can be simply undone and re-enrolled, you can just stick with Sh1ttyOOBE.
 
 ### SH1TTYOOBE
 1. Powerwash Your Chromebook (Ctrl+Shift+Alt+R on Login screen, NOT lock screen)
