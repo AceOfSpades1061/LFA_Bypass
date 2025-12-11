@@ -31,6 +31,20 @@ Prerequisites:
 3. Click "Click here if it didn't open yet"
 4. PROFIT!!!
 
+# Dyslexia | By me :D
+Prerequisties:
+- Have the Lexia Power Up app
+
+1. Click sign in with clever
+2. Go to Google Sign In
+3. Enter spstudent1@d11.org
+4. Click Sign-in options, then GitHub
+5. Click Docs
+6. Scroll down to make a contribution
+7. Search org:duckduckgo
+8. Click the link
+PROFIT!!!
+
 ## Sh1ttyOOBE + BadSh1mmer - Unenrollment for KV5 | By [Crosbreaker](https://github.com/crosbreaker)
 Prerequisites:
 - Chromebook with a Version from 135-137
