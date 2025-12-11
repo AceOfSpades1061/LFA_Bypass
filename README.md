@@ -43,7 +43,8 @@ Prerequisties:
 6. Scroll down to make a contribution
 7. Search org:duckduckgo
 8. Click the link
-PROFIT!!!
+
+AND PROFIT!!!
 
 ## Sh1ttyOOBE + BadSh1mmer - Unenrollment for KV5 | By [Crosbreaker](https://github.com/crosbreaker)
 Prerequisites:
